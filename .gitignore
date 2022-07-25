@@ -2,3 +2,7 @@ UnderDeveloping/
 Images/
 _test/
 __pycache__/
+data.json
+channel_messages.json
+.env
+
